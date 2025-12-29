@@ -2,6 +2,7 @@
 
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo analizar datos relacionados con el acoso laboral en México utilizando la Encuesta Nacional de Ocupación y Empleo (ENOE) para la población de 15 años y más. El análisis se centrará en identificar tendencias, prevalencia y factores asociados al acoso laboral.
+Para obtener datos sobre discriminación y violencia laboral utilizando el diseño de registro de la ENOE (Encuesta Nacional de Ocupación y Empleo) es fundamental aclarar que esta encuesta identifica la discriminación principalmente a través de las causas de **abandono del empleo o la falta de acceso a prestaciones**, a diferencia de la ENDIREH, que es directa sobre agresiones.
 
 ## Fuentes de Datos
 - **Encuesta Nacional de Ocupación y Empleo (ENOE)**
